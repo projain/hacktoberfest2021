@@ -1,0 +1,30 @@
+/* Write a Program to convert an array of objects to an object
+	based on a given key */
+
+
+const convert = (obj,str) => {
+	// Write your code here
+	oc={}
+	try{
+	obj.forEach((value) => {
+		x=value[str];
+		oc[x]=value;
+		});
+		return(oc)
+}
+catch(err)
+{
+return null
+}
+};
+/* For example,
+INPUT - convert([{id: 1, value: 'abc'}, {id: 2, value: 'xyz'}], 'id')
+OUTPUT - {
+			'1': {id: 1, value: 'abc'},
+			'2': {id: 2, value: 'xyz'}
+		 }
+
+
+*/
+
+module.exports = convert;

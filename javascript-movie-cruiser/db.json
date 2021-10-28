@@ -1,0 +1,58 @@
+{
+  "movies": [
+<<<<<<< HEAD
+    {
+      "id": 101,
+      "title": "Joker",
+      "posterPath": "../images/joker.jpg"
+    },
+    {
+      "id": 102,
+      "title": "The Kissing Booth",
+      "posterPath": "../images/The_Kissing_Booth.png"
+    },
+    {
+      "id": 103,
+      "title": "Guilty",
+      "posterPath": "../images/guilty.jpg"
+    },
+    {
+      "id": 104,
+      "title": "The Girl Next Door",
+      "posterPath": "../images/girl.jpg"
+    },
+    {
+      "id": 105,
+      "title": "the fault in our stars",
+      "posterPath": "../images/fis.jpg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 102,
+      "title": "The Kissing Booth",
+      "posterPath": "../images/The_Kissing_Booth.png"
+    },
+    {
+      "id": 104,
+      "title": "The Girl Next Door",
+      "posterPath": "../images/girl.jpg"
+    },
+    {
+      "id": 101,
+      "title": "Joker",
+      "posterPath": "../images/joker.jpg"
+    },
+    {
+      "id": 105,
+      "title": "the fault in our stars",
+      "posterPath": "../images/fis.jpg"
+    }
+=======
+    
+  ],
+  "favourites": [
+    
+>>>>>>> 9c5e970b654579b04cd9d162ffce695080084fca
+  ]
+}
